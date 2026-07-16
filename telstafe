@@ -1,5 +1,4 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-id="Telef" tvg-logo="" group-title="General",Telef
-#EXTVLCOPT:http-referrer=https://santafe.mitelefe.com/
 https://dmxleo.dailymotion.com/cdn/manifest/video/xaekuuq.m3u8?bs=1&rid=0&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https://santafe.mitelefe.com/
