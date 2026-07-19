@@ -1,5 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="telf" tvg-logo="" group-title="General",telf
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-https://dmxleo.dailymotion.com/cdn/manifest/video/xaekuuq.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https://santafe.mitelefe.com/
